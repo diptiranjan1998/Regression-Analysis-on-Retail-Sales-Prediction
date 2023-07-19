@@ -10,6 +10,7 @@ Rossmann operates over 3000 drug stores in 7 European countries. Currently, Ross
 ---
 
 **Rossmann Stores Data.csv** - Historical data including Sales.
+
 **store.csv** - Supplemental information about the stores.
 
 1.   **Store** ⇒ Store id
