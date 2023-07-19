@@ -9,6 +9,9 @@ Rossmann operates over 3000 drug stores in 7 European countries. Currently, Ross
 ## Data Description of each column in our dataset:
 ---
 
+**Rossmann Stores Data.csv** - Historical data including Sales.
+**store.csv** - Supplemental information about the stores.
+
 1.   **Store** ⇒ Store id
 2.   **Sales** ⇒ Sales made for the day
 3.   **Customers** ⇒ No. of Customers for the day
